@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (not tracked; add locally)
+train.csv
+test.csv
+
+# OS files
+.DS_Store
+Thumbs.db
